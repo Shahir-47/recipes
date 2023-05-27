@@ -1,4 +1,4 @@
-# Odin Recipes
+# Recipes
 
 This project aims to demonstrate my understanding of HTML structure and linking multiple web pages.
 
